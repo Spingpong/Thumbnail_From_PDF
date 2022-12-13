@@ -38,6 +38,8 @@ namespace WinFormsApp1
             
             // Open document
             //Document pdfDocument = new Document("c:\\rm\\powershell-fr.pdf");
+            //Document pdfDocument = new Document("c:\\rm\\powershell-fr");
+
             Document pdfDocument = new Document("c:\\rm\\powershell-fr");
 
             int pageIndex = 1;
